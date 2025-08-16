@@ -29,7 +29,7 @@ This repository showcases my hands-on projects with clean, documented code and i
 
 ### **Power BI**
 - [📂 HR Dashboard](PowerBI/Project1_HRDashboard) — HR KPIs dashboard (headcount, turnover, promotions).
-- [📂 Sales Insights Dashboard](PowerBI/Project2_SalesInsights) — Visual storytelling for sales performance.
+- [📂 Sales Agents Insights Dashboard](PowerBI/Project2_SalesInsights) — Visual storytelling for sales performance.
 
 ---
 
