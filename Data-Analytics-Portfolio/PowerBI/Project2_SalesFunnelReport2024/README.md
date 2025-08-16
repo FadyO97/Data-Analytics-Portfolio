@@ -20,12 +20,14 @@
 ## 🔍 Steps Taken
 1. **Data Cleaning:** Removed duplicates, handled missing values.
 2. **Exploration:** Looked at stage conversion drop-offs and monthly performance.
-3. **Analysis:** Built measures for Leads, Presentations, Offers, and Contracts
-              ** Created KPIs for conversion percentages
-4. **Visualization:** Funnel chart
-                   ** Line charts for trends (Leads, Presentations, Offers, Contracts)
-                   ** Salesperson comparison (Contracts closed)
-                   ** Slicer for filtering by month 
+3. **Analysis:
+- Built measures for Leads, Presentations, Offers, and Contracts
+- Created KPIs for conversion percentages
+5. **Visualization:
+- Funnel chart
+- Line charts for trends (Leads, Presentations, Offers, Contracts)
+- Salesperson comparison (Contracts closed)
+- Slicer for filtering by month 
 
 ---
 
