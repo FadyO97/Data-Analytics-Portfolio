@@ -9,8 +9,10 @@ This repository showcases my hands-on projects with clean, documented code and i
 ## 🛠 Tech Stack
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="100"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="100"/>
+![Power BI] <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="100"/>
+![Excel]<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="100"/>
+
+
 
 ---
 
