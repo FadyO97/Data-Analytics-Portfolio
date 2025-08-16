@@ -29,7 +29,7 @@ This repository showcases my hands-on projects with clean, documented code and i
 
 ### **Power BI**
 - [📂 HR Dashboard](PowerBI/Project1_HRDashboard) — HR KPIs dashboard (headcount, turnover, promotions).
-- [📂 Sales Funnel Report  2024](PowerBI/Sales Funnel Report  2024) — Visual storytelling for sales performance.
+- [📂 Sales Funnel Report  2024](PowerBI/Project2_Sales Funnel Report  2024) — Visual storytelling for sales performance.
 
 ---
 
