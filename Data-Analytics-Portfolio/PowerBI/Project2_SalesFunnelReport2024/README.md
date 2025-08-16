@@ -39,7 +39,7 @@
 ---
 
 ## 📷 Screenshots
-![Dashboard Screenshot](Sales Funnel Report  2024.gif)
+![Dashboard Screenshot](Data-Analytics-Portfolio/PowerBI/Project2_SalesFunnelReport2024/Sales Funnel Report  2024.gif)
 
 ---
 
