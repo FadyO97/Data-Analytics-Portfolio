@@ -37,8 +37,8 @@ This repository showcases my hands-on projects with clean, documented code and i
 ---
 
 ## 📬 Contact
-📧 **Email:** fady@example.com  
-💼 **LinkedIn:** [linkedin.com/in/fadyosama](https://linkedin.com/in/fadyosama)  
+📧 **Email:** fadyosama519@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/fadyosama]([https://linkedin.com/in/fadyosama](https://www.linkedin.com/in/fady-osama-data-analyst/))  
 🌐 **Portfolio Website:** *Coming Soon*
 
 ---
